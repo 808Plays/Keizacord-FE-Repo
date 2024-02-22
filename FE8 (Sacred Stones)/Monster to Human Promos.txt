@@ -1,0 +1,10 @@
+Monster => Human promotion changes
+
+Revenant => Hero/Warrior (Fighter)
+Bonewalker => Hero/Ranger (Mercenary)
+Doggo => Assassin/Swordmaster (Myrmidon)
+Tarvos => Paladin/Great Knight (Cavalier)
+Bael => General/Great Knight (Knight)
+Mogall => Druid/Summoner (Shaman)
+Bonewalker => Sniper/Ranger (Archer)
+Gargoyle => Wyvern Lord/Knight (Wyvern)
