@@ -1,0 +1,288 @@
+Credits for patches:
+aera - Limitless Trading (Limitless)
+Celerity910 - Playable Unit Hard Mode Bonuses (found by Gryz)
+Gryz - Faster Movement by Holding A
+Tequila - Multiple S Ranks, Battle Stats w/Animations Off
+
+Credits for assets:
+The Blind Archer - Axe Wyvern Lord
+
+Disclaimer: Since the ROM now believes that claws are "bows", random units may have these equipped. You have been warned. Also they are not effective against fliers, so don't worry about that.
+Also, don't promote units with weapons their promoted classes can't use (e.g. Bonewalker with a lance). Might result in a crash.
+
+List of changes and revisions made to FE8 -  Deluxe
+
+July 22, 2024
+- Reverted Monster Weapon changes, but added a sell price so it's not entirely useless.
+
+April 15, 2024
+- Added HP bars
+
+April 13, 2024
+- Made it so you can use the Secret Shop without the card.
+- Added some more items to the battle preps shop.
+-- No not the stat boosters, that's no fun
+-- Price of battle preps should be normal
+- Replaced some promotion item rewards with Master Seals.
+
+April 11, 2024
+- Replaced a lot of the pink/purple with gray.
+- Made all* of the legendary weapons unbreakable.
+-- Latona doesn't count, are you crazy?
+
+January 26, 2022
+- With the removal of double-promotions, the Braces have an actual use now.
+
+July 10, 2021
+- Gave Wyvern Lords Axes instead of Swords.
+
+July 7, 2021
+- Adjusted Hard Mode bonuses.
+- Recolored portraits of main characters (closer to FEH/official artwork colors).
+
+*~*~*~* New Hard Mode bonuses *~*~*~*
+Prologue - Ch. 1: 1
+Ch. 2 - Ch. 3: 2
+Ch. 4 - Ch. 6x: 3
+Ch. 7 - Ch. 9: 4
+Ch. 10 - Ch. 13: 5
+Ch. 14 - Ch. 16: 6
+Ch. 17 - Ch. 19: 7
+Ch. 20 - Ch. 21: 8
+
+June 6, 2021
+- Updated a few weapon sprites.
+
+June 3, 2021
+- Short Bow has also recieved a graphic update to match FEH.
+
+May 25, 2021
+- Updated most of the legendary weapons to match their FEH counterparts.
+-- Light Brand and Zanbato recieved the same treatement.
+- Actually finished the female sprites because Ranger exists.
+- Replaced the Shamshir icon with the FEH version, and not the DS Wo Dao.
+- Updated my portait because :/
+- Made the Secret Book give +3 skill.
+
+May 24, 2021
+- Touched up Sandy's portrait.
+- Replaced most weapon icons with their DS equivalents.
+- The arrow is purple now, yes.
+- Made some new poison weapon, monster-effective weapon, light magic, and dark magic icons.
+- Touched up the Stone icon.
+- Temporarily swapped the Dragonshield for Concrete.
+
+May 15, 2021
+- Fixed a few portraits.
+
+May 9, 2021
+- Changed Evil Eye to G Tech.
+- Changed Novala to be Keiz.
+- Actually changed the description of myself and Sandy.
+
+April 30, 2021
+- Ewan should ACTUALLY have the Master Seal this time around.
+- Changed the intro text with all the lore and whatnot.
+
+April 29, 2021
+- Replaced the Solar/Lunar Brace with Demon Surge. Pick your poison.
+- Implemented the last of the dual gender sprites: Great Knight and General.
+- Upgraded the female Knight sprite to be a little more obvious.
+
+April 27, 2021
+- Should have changed pirate AI in Chapter 9 (Eirika) and Chapter 13 (Ephraim).
+- Made even more of the game purple. Shocker.
+
+April 24, 2021
+- Slight buff to Tana's base stats.
+- Tried to make Ewan come with a Master Seal.
+- Made a beta wyvern knight sprite. They too, have ponytails.
+
+April 20, 2021
+- Buffed Tethys and L'arachel's base stats.
+- Gave Myrrh (Manakete) canto.
+
+April 19, 2021
+- Replaced torch with Thermit.
+- One of the Chapter 6 villagers has been replaced by beta Sandy.
+- Some green units in Chapter 6 will attack on their own.
+- Made Chapter 6 survival reward a Master Seal.
+- Also doubled Master Seal uses.
+- Buffed Amelia and Ewan's bases so they're somewhat usable.
+
+March 30, 2021
+- Removed the event that damages Ross before the chapter starts.
+
+March 7, 2021
+- Made more of the UI purple.
+
+March 5, 2021
+- Playable unit hard mode bonuses.
+- Changed default settings for efficiency. (Animations: Off, Speed: Fast, Text: Max, Autocursor: Off)
+
+March 3, 2021
+- Added the danger zone from modern FE. Press "Select" while not hovering over a unit to view.
+- Metis tome gives +10% to growths now.
+- 15 HP Vulneraries.
+- Basic battle stats show during combat with animations off. Now you can see how badly you got screwed over.
+- Added in "Super Canto". Basically, you get to move after you attack, along with just about any action.
+- Crit bonuses are now 30%, just like FE6.
+- Thracia trading. Basically, you can trade to hell and back, and still get to have an action. Great for re-adjusting inventories.
+- Faster moving map animations if you hold down the A button.
+
+February 24, 2021
+- Made a beta version of female Knight. They have a slimmer body while still.
+
+February 23, 2021
+- Made beta versions of female Cavalier and Paladin. They have little ponytails now!
+
+February 22, 2021
+- Gorgons have staff ranks. You happy?
+
+February 20, 2021
+- Made the palette darker because saturation sucks.
+- Changed Mogall's promo tree from Mage to Shaman.
+
+February 13, 2021
+- Tried to replace Goddess Icon with Jynx.
+
+February 9, 2021
+- Touched up the purple UI. It was kinda gross.
+
+February 8, 2021
+- Gleipnir now has monster effectiveness.
+- Metis Tome usage tripled.
+- Gargoyle/Deathgoyle should have mounted aid.
+- Infinite boots.
+-- Yes, they cost 42069. Deal with it.
+--- Yes, I removed the desert boots. It's been replaced with a Crimson Eye.
+- Light Brands now have Nosferatu effect.
+- Buffed Short Bow, Short Spear, nerfed Dragonspear, Wind Sword.
+[Short Bow (Uses): 22 -> 25]
+[Short Bow (Mt): 5 -> 6]
+[Short Spear (Hit): 60 -> 65]
+[Dragonspear (Mt): 10 -> 8]
+[Wind Sword (Mt): 9 -> 7]
+- Chapter 14 Secret Shop now has Skill Book instead of Angelic Robe.
+- Player's default palette is now purple instead of blue. UI is also purple.
+
+February 5, 2021
+- Made Chapter 7 Energy Ring droppable.
+- Tentatively changed Energy Ring and Speedwing give +3 to their stats instead of +2.
+- Infinite Body Ring. Don't ask. Also gives +3 HP and +1 Def.
+- Dragonstone now grants +15 HP.
+
+January 30, 2021
+- Added Keiz's name to the credits.
+
+January 25, 2021
+- Rapier and Reginleif are now E rank.
+- Figured out that monster weapons shit the game when it's classified as a monster weapon. Now they're unranked "bows".
+- Monsters promote to humans. Details in separate file.
+- Duessel's squad has had their bases buffed.
+
+January 9, 2021
+- Tarvos and Maelduin have Canto.
+- Third time's the charm with that Chapter 9 Pirate.
+- Trying to view Monster Weapons basically makes the game shit itself. So they're being reverted to monster-only.
+
+January 8, 2021
+- Multiple S ranks. Whoo.
+
+January 6, 2021
+- Bonewalkers and Wights (bow) have ballista access.
+- Monsters now have relatively decent promo bonuses.
+- Swiftsoles are now half their normal price and have two uses.
+- 1-2 range Dragonstone and Short Bow.
+- Siegmund and Sieglinde are bumped down to A rank because rando weapon ranks are weird.
+- Universal Monster weapons.
+
+January 5, 2021
+- Gargoyles and Deathgoyles now have Canto.
+- Stairs give 10 avoid, much like some modern FE.
+
+January 4, 2021
+- Stone is now a blunt.
+- Edited magic weights once again.
+- Slightly buffed Slim Lance, Hatchet, Steel Bow, and Luna.
+[Slim Lance (Mt): 4 -> 5]
+[Hatchet (Mt): 4 -> 5]
+[Steel Bow (Wt): 9 -> 8]
+[Luna (Hit): 50 -> 75]
+- Silence icon is now O O F.
+- Warp icon is now cheese (fitting).
+- Cormag's recruitment theme has been replaced with A Knight's Oath.
+- Reduced Shine and Divine prices.
+- Fixed Fog of War on Chapter 19 (Ephraim). Didn't realize it was a "different" map.
+
+January 3, 2021
+- Demon Surge and Shadowshot are now guns as well
+- Orion's Bolt is now onion rings.
+- Fixed Vulnerary price.
+
+January 1, 2021
+- Replaced one of the Chapter 6 villagers with me. Don't mind the stats.
+- Increased poison weapons, monster-effective weapons, and hatchet sell prices
+[Sells for 300 at full use]
+- Evil Eye and Crimson Eye have been replaced with a glock and revolver.
+
+December 28, 2020
+- Added a plank to Chapter 11 (Ephraim) to prevent a softlock.
+- Modified Tana's cell in Chapter 9 (Ephraim). Sorry symmetry.
+
+December 19, 2020
+- The villagers (Chapter 6) got stronger.
+
+December 18, 2020
+- Light, Dark, and high-end Anima magic have had their weight reduced
+- Made one final change to Chapter 14's Secret Shop to provide Speedwings
+- Berserk is now keizaRage
+- Sleep is now keizaSnug
+- Chapter 9 Pirate shouldn't move this time
+
+December 17, 2020
+- Should have changed that one pirate's AI in Chapter 9 (Eirika) that charges the village.
+- Gerik's squad is now closer to Eirika's army (Chapter 10).
+- L'arachel and Dozla are now closer to Eirika's army (Chapter 11).
+
+December 16, 2020
+- Chapter 14's Secret Shop (Ephraim AND Eirika) now sells the Swiftsole.
+- Changed out the Chapter 14 Secret Shop again to hybrid NA and JP (removed Barrier and a Blade for Energy Ring and Seraph Robe).
+- Super Recruits now have a hybrid of their NA and JP max stats.
+
+December 15, 2020
+- Sellable monster effective weapons.
+- Sellable hatchet.
+- Sieglinde and Siegmund are now S rank.
+
+December 14, 2020
+- Replaced the "breakable" wall in Chapter 5x for a walkway in the water, because most of the AI doesn't insta-aggro
+- Edited green units in Chapter 6. They are now on a mountain with boosted stats.
+- Rapier and Reginleif are now C rank.
+- Edited Amelia's AI in Chapter 9 (Ephraim) so she shouldn't charge you.
+
+December 13, 2020
+- Increased single use chest keys to 3 uses.
+
+November 23, 2020
+- Fixed Stone weapon EXP glitch.
+- Changed Elixir sprite to keizaNeat.
+
+October 4, 2020
+- Added a breakable wall that was supposed to break in Chapter 5x.
+
+October 3, 2020
+- Sellable poison weapons.
+
+September 25, 2020
+- Infinite Dragonstone.
+
+September 5, 2020
+- Doubled Promotion item usage to somewhat alleviate problems with randomization.
+- Altered Narube River's Armory (Removed Slim Lance and Slim Sword for Short Spear and Tomahawk) [Must be accessed from world map; dot on map from Chapter 17].
+
+August 29, 2020
+- Replaced Torch Staff in Serafew's Shop with Chest Keys [Must be accessed from the world map; it's the town from Chapter 5].
+- Changed Goddess Icon to give +4 luck (to be more in lieu of modern FE).
+- Changed Vulneraries to 5 uses (compromised between FE10 and the rest).
+- Also, it's fogless.
