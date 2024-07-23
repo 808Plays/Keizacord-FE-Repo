@@ -1,0 +1,32 @@
+List of changes and revisions made to Fire Embad Speedchoice
+
+Note: The Non-Commercial Use (NC) version uses assets for Delthea and Clair that aren't public yet. Please for the love of all that is holy don't stream this ROM.
+
+October 11, 2022
+- Removed turn count requirement from 14x, 20x (both)
+- Fixed Clair and Delthea's mouths
+
+October 10, 2022
+- Inital release, with changes including...
+- Removing Fog of War when applicable
+- Removing Sandstorm from Arcadia
+- 5 use Vulneraries that heal 15 HP
+- Updated weapon icons
+- Buffing Rapier to FE7 stats (Uses 28 -> 40, Mt 5 -> 7, Hit 100 -> 95, Weight 4 -> 5)
+- Changing normal weapons to their FE7 stats
+- Unbreakable Legendary weapons, Divinestone
+- Slightly buffed Steel Bow (Weight 9 -> 8), Short Bow (Uses 22 -> 25, Mt 5 -> 6), Fenrir (Hit 70 -> 75)
+- Buffed Slim Sword (and to an extent, the Slim Lance) to its Geneology stats
+- Nerfed Horseslayer (Mt 11 -> 7, Hit 75 -> 70)
+- 1-2 Range Divinestone and Short Bow
+- Increased uses for Thunder (25 -> 35), Elfire (20 -> 30), and Fimbulvetr uses (15 -> 20)
+- Infinite use Boots
+- Faster unit movement
+- +3 stat boosts: Energy Ring, Speedwing, Secret Book
+- +4 stat boost: Goddess Icon
+- An updated weapon triangle (+/- 15 Hit instead of 10)
+- Changing Douglas' AI
+- Better Chapter 2 Armory/Shop
+- More trading
+- Giving Lilina/Delthea a weapon and vulnerary, and Sue/Lester a weapon
+- Removed turn count requirement for 12x, 21x
