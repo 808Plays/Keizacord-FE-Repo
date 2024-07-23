@@ -1,0 +1,177 @@
+Credits for patches:
+circleseverywhere - Danger zone
+Tequila - Battle stats w/animations off, Staff range fix, Multiple S ranks
+
+Credits for assets:
+The Blind Archer - Axe Wyvern Lord
+
+NOTES:
+- Removing weather effects from Lyn mode get removed (likely from the tutorial patch), so I'm just...leaving it in I guess.
+- Certain changes are only catered towards HHM. Because Eliwood mode isn't as fun.
+
+Known Bug(s):
+- With the Staff range fix, the range of ballistas may be added to units attack ranges, even if they can't use a ballista. (This is only graphical, and has no effect on gameplay).
+
+List of changes and revisions made to FE7 - Deluxe
+
+November 12, 2022
+- Fixed Vaida's weapon ranks
+
+October 17, 2022
+- Actually fixed the flag for 17x. Whoops
+
+January 24, 2022 - The Birthday-ening:
+- Actually ranged Restore this time
+- Multiple S ranks
+- Fixed Nino's portrait
+- ...why can't Pirates use the Earth Seal?
+
+January 23, 2022:
+- Fixed Spear price
+- Nerfed Silence, Berserk, and Sleep
+- Deleted some enemies from Cog of Destiny
+- Ranged Restore(?)
+- Reduced BBD to 7 turns
+- Buffed Nino. Like, a lot
+
+January 13, 2022:
+- Swapped Earth Seals back to Heaven Seals
+- Buffed promo bonuses
+
+July 10, 2021
+- Gave Wyvern Lords Axes instead of Swords
+
+July 9, 2021
+- Recolored most portraits to better resemble their FEH/Cipher counterparts
+- Buffed Lyn mode characters (because Lyn mode sux)
+
+June 6, 2021
+- More and less purple
+- Updated a few weapon icons
+
+June 3, 2021
+- Short Bow has also been updated to FEH status
+
+June 2, 2021
+- Updated the legendary weapons to match their FEH versions
+- Buffed Canas, Dart, and Farina's base stats
+
+May 24, 2021
+- Updated Keiz's portrait maybe
+- New(er) gen graphics for some weapons
+- Made new icons for poison weapons, emblem weapons, light magic, and dark magic
+- Changed the Dragonshield to a worth item
+
+April 6, 2021
+- Swapped Heaven Seals from events to Earth Seals
+- 5 use Chest key too expensive pls nerf
+- Modified Chapter 16 and 31x armories
+- Yes there's more purple, sorry not sorry
+
+April 5, 2021
+- Added droppable Chest keys to Chapter 17 in case you don't have any
+- Reworked the inventories of secret shop in Chapter 20 (the upper left one) and the armory in Chapter 25
+- Halved price of Earth Seals. For reasons
+
+April 1, 2021
+- Replaced Wallace's Knight's Crest with an Earth Seal. It's practical
+- Should have removed Genesis EXP requirement. Just need to get Hawkeye now
+
+March 30, 2021
+- Finally figured out a workaround for better early shops
+
+March 20, 2021
+- Merlinus has built a wall, and is probably making the brigands pay for it all
+- Adjusted some of the enemy AI to try fuck off and not destroy the Priscilla village
+
+March 7, 2021
+- More purple
+
+March 6, 2021
+- Ah screw it. Forblaze, Durandal, Armads, Aureola, and the Sol Katti are unbreakable
+- Changed the Torch staff to be something more useful
+
+March 5, 2021
+- Buffed Merlinus even more, because apparently it's needed
+- Changed some default settings (speed fast, text max, autocursor off)
+- Added some battle details while animations are off. Now you get to see how badly you get screwed over!
+
+March 3, 2021
+- Added the danger zone from modern FE. Press "Select" while not hovering over a unit to view
+- Afa's Drops now give +10% to growths
+- 15 HP Vulneraries, because I felt like it
+
+March 2, 2021
+- Replaced Torches in Chapter 19 with stuff of more value
+- Hopefully made Aion's Silver Card (Chapter 19x) droppable
+- Made Oleg's Hero Crest (Chapter 21) droppable
+- Moved Nino and Jaffar closer in BBD
+- Gave Merlinus 15 movement because I can
+- let the assassins steal dammit
+- Removed Myrmidon/Swordmaster lock on Wo Dao. Hope I don't live to regret this
+- Added another door key to Chapter 6, for...uh...reasons
+
+March 1, 2021
+- Gave Merlinus some extra stats, because fuck you that's why
+- Reverted Runesword. It was fun while it lasted
+
+February 22, 2021
+- I   L I V E !
+- More purple!
+- A few image changes!
+-- Orion's Bolt, Elixir, Goddess Icon, Warp, Berserk, Sleep, Silence
+- 3 use Chest Keys
+- Sol Katti, Durandal, Armads, and Forblaze are A rank
+- Some weight changes to Light, Dark, and high-end Anima magic
+-- Not the Siege tomes. That's still dumb
+- Buffed Poison and Emblem weapon sell prices
+- Reduced Shine and Divine prices
+- Stairs give 10 avoid
+- Infinite Body Ring. Don't ask. Also gives +3 HP and +1 Def.
+- Energy Ring and Speedwing give +3 to their respective stats instead of +2 because yes
+- Infinite Boots. If you get them, you get them
+-- (I'm not that cruel. If you're playing vanilla, desert Eclipse is replaced with the Boots)
+- Tripled Afa's Drops usage
+- Buffed Short Bow, Short Spear
+- Nerfed Wind Sword
+- Added a little extra BBD insurance
+
+January 25, 2021
+- Mani Katti, Wolf Beil, and Rapier are E rank because fuck this
+- Runesword is basically a Devil Sword
+- Light Brand now heals
+- Wire (11H) Boss has been moved to be closer
+
+November 23, 2020
+- Wolf Beil and Rapier locks removed
+-- Both are C rank
+
+October 9, 2020
+- Mani Katti is now C rank, because APPARENTLY B RANK WAS TOO HIGH
+- Removed some (read: most) of the enemies on Ch 12
+
+October 5, 2020
+	-- READ NOTE REGARDING CH 9 --
+- Removed thief from 11H, because fuck him
+- Zephiel should ACTUALLY be out of harms way this time
+- Improved Poison weapon sell price
+- Sellable Emblem weapons
+- Removed Lyn Lock on Mani Katti
+-- It's now B rank instead of Lyn only
+- Tentatively increased basic magic usage to cope with availability
+- Altered Chapter 7's map to avoid missing turn count for 7x
+
+October 4, 2020
+- Sellable poison weapons
+- Removed some annoying Gaiden flags
+-- Port of Badon and 19xx
+
+October 3, 2020
+- Removed Fog of War
+-- Kept rain in Ch 10 for strategy reasons
+-- Kept snow in Ch 25 for survivablity
+*Living Legend gets a special FU for having both sandstorm AND fog*
+- Fuck it, BBD memes are over. Zephiel now wakes up turn 1 where your units are.
+- 5 use Vulneraries
+- Goddess Icons give +4 Luck
+- Doubled Promotion item usage sans Heaven seal and Fell contract. Why the heck would you use more than one of those.
