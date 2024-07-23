@@ -1,0 +1,29 @@
+Portraits:
+Melia: Seliph, Iucharba, Patty, Oifey, Lester, Hannibal
+CavalryUnits: Mareeta, Inigo
+Sterling Glovner: Brighton, Hicks, Homer, Ishtore
+MeatofJustice: Catria/Clair, FERDINAND VON AEGIR
+Blueyguy: Gordin
+Quotedotlass, Electric Serge: Soren, Makalov, Mia, Boyd
+Zoisite: Midir
+Yang Kai: Arden
+SatoshiKura: Gregor, Arthur
+flingforp, Nickt: Darros
+DiamondAppendix: Est
+Vilkalizer: Marty
+Nickt, Stitch: Sigrun, Stefan, Tormod, Titania, Lucia, Oliver
+Kanna: Arlen
+Atey: Julian, Arvis
+Jey the Count: Scarlet
+GabrielKnight: Tobin
+GFE1R, Wasdye: Hardin
+Nobody, Glaceo, Nickt, ReykRS: Barst
+UltraxBlade: Zane, Magorn, Ridale
+Spoon_Rhythm, Arcth: Ike
+Wasdye: Shamir
+Imperial: Robin
+
+Animations:
+Primefusion: Axe Cavaliers
+
+

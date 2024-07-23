@@ -1,0 +1,129 @@
+Eliwood (Seliph):
+140 HP / 55 Str / 60 Skl / 35 Spd / 45 Def / 30 Res / 45 Luck
+
+Hector: literally the same
+
+Lyn (Mareeta):
+65 HP / 60 Str / 75 Skl / 80 Spd / 20 Def / 15 Res / 60 Luck
+
+Kent (Hicks):
+85 HP / 45 Str / 65 Skl / 55 Spd / 35 Def / 10 Res / 70 Luck
+*with Fjalar, Baldr, and Ullr growths
+
+Sain (Brighton):
+80 HP / 60 Str / 35 Skl / 40 Spd / 20 Def / 20 Res / 35 Luck
+*with Fjalar, Baldr, and Ullr growths
+**also has innate crit to make up for Wrath
+
+Florina (SoV Clair):
+30 HP / 35 Str / 55 Skl / 75 Spd / 25 Def / 2 Res / 55 Luck
+
+Wil (Gordin):
+70 HP / 40 Str / 40 Skl / 40 Spd / 30 Def / 0 Res / 50 Luck
+
+Dorcas (Iucharba):
+110 HP / 40 Str / 50 Skl / 10 Spd / 60 Def / 5 Res / 10 Luck
+
+Serra: (unchanged)
+
+Erk (PoR Soren):
+45 HP / 60 Mag / 55 Skl / 40 Spd / 15 Def / 55 Res / 30 Luck
+
+Rath (Midir/Midayle):
+60 HP / 30 Str / 30 Skl / 40 Spd / 30 Def / 5 Res / 10 Luck
+
+Matthew (Dew!Patty):
+95 HP / 50 Str / 50 Skl / 40 Spd / 40 Def / 10 Res / 60 Luck
+
+Lucius (Artur):
+55 HP / 60 Mag / 50 Skl / 40 Spd / 15 Def / 60 Res / 40 Luck
+
+Nils (Homer):
+65 HP / 0 Str / 70 Skl / 70 Spd / 15 Def / 40 Res / 55 Luck
+
+Wallace (Arden but better growths):
+140 HP / 100 Str / 60 Skl / 70 Spd / 90 Def / 35 Res / 60 Luck
+
+Marcus (Isadora):
+75 HP / 30 Str / 35 Skl / 50 Spd / 20 Def / 25 Res / 45 Luck
+
+Bartre: (unchanged)
+
+Rebecca (Neimi):
+55 HP / 45 Str / 50 Skl / 60 Spd / 15 Def / 35 Res / 50 Luck
+
+Lowen (PoR Makalov):
+60 HP / 55 Str / 45 Skl / 50 Spd / 45 Def / 20 Res / 25 Luck
+
+Oswin (Amelia):
+70 HP / 40 Str / 40 Skl / 40 Spd / 30 Def / 15 Res / 50 Luck
+
+Guy (Marisa):
+75 HP / 30 Str / 55 Skl / 60 Spd / 15 Def / 25 Res / 50 Luck
+
+Priscilla (L'Arachel):
+45 HP / 60 Mag / 45 Skl / 50 Spd / 15 Def / 50 Res / 65 Luck
+
+Raven: Gregor
+105 HP / 60 Str / 65 Skl / 50 Spd / 50 Def / 15 Res / 45 Luck
+
+Canas (slightly boosted growths):
+80 HP / 55 Mag / 50 Skl / 45 Spd / 35 Def / 55 Res / 35 Luck
+
+Dart (New Mystery Darros):
+100 HP / 65 Str / 40 Skl / 50 Spd / 30 Def / 0 Res / 40 Luck
+
+Fiora (Farina):
+75 HP / 50 Str / 40 Skl / 45 Spd / 25 Def / 30 Res / 45 Luck
+
+Legault (Astore):
+90 HP / 35 Str / 40 Skl / 50 Spd / 20 Def / 20 Res / 15 Luck
+
+Ninian (Ashe for some reason):
+55 HP / 30 Str / 55 Skl / 50 Spd / 15 Def / 30 Res / 40 Luck
+
+Isadora (Oifey):
+100 HP / 40 Str / 50 Skl / 30 Spd / 30 Def / 10 Res / 40 Luck
+
+Heath (SoV Est):
+30 HP / 50 Str / 50 Skl / 45 Spd / 45 Def / 3 Res / 60 Luck
+
+Hawkeye: (Fates Arthur):
+80 HP / 70 Str / 70 Skl / 50 Spd / 45 Def / 20 Res / 5 Luck
+
+Geitz (Marty):
+88 HP / 55 Str / 65 Skl / 80 Def / 50 Def / 10 Res / 60 Luck
+*with Njorun, Ullr, Fjalar, Ced, Baldr, and Od growths
+
+Farina (Sigrun):
+40 HP / 45 Str / 70 Skl / 25 Spd / 10 Def / 50 Res / 70 Luck
+
+Pent (Arlen):
+80 HP / 140 Mag / 50 Skl / 90 Spd / 40 Def / 0 Res / 10 Luck
+*with Gemini, Leo, Scorpio, and Libra growths
+
+Louise (Igrene):
+70 HP / 35 Str / 25 Skl / 35 Spd / 10 Def / 5 Res / 20 Luck
+
+Harken: (Donnel!Inigo + Aptitude):
+111 HP / 78 Str / 85 Skl / 85 Spd / 58 Def / 43 Res / 88 Luck
+
+Karel (PoR Stefan):
+70 HP / 50 Str / 40 Skl / 55 Spd / 35 Def / 30 Res / 25 Luck
+
+Nino (Tormod + Blossom):
+75 HP / 70 Mag / 64 Skl / 70 Spd / 44 Def / 70 Res / 58 Luck
+
+Jaffar (SD Julian):
+80 HP / 50 Str / 50 Skl / 50 Spd / 30 Def / 2 Res / 80 Luck
+
+Vaida (Scarlet):
+40 HP / 60 Str / 55 Skl / 60 Spd / 45 Luck / 45 Def / 20 Res
+
+Karla (PoR Mia):
+50 HP / 40 Str / 45 Skl / 60 Spd / 20 Def / 25 Res / 45 Luck
+
+Renault (Mage!Tobin):
+40 HP / 35 Mag / 55 Skl / 25 Spd / 20 Def / 0 Res / 30 Luck
+
+Athos (Moulder): He's maxed it literally doesn't matter
