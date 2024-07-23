@@ -6,4 +6,4 @@ Anything important is probably going to be in the respective folders. If you nee
 
 ## Contact
 
-If there are any problems, I can typically be found on [Discord](https://discord.gg/keizaron), in the #fire-emblem channel. Make sure you read the rules of the server.
+If there are any problems, I can typically be found on [Discord](https://discord.gg/keizaron), in the #fire-emblem channel (just look for whoever has 808 in their name). Make sure you read the rules of the server.
