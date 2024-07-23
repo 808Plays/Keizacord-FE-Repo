@@ -2,7 +2,7 @@
 
 This is a repository for Fire Emblem related things from Keizaron's discord. Certain versions of things may not be updated unless requested due to a lack of interst.
 
-Anything important is probably going to be in the respective folders, use the links provided in certain files as necessary.
+Anything important is probably going to be in the respective folders. If you need help patching a ROM, or need a program like NUPS, you can refer to [this](https://feuniverse.us/t/how-to-patch-a-rom/4061) guide.
 
 ## Contact
 
