@@ -1,0 +1,106 @@
+Credits for patches:
+Tequila - Hard Mode bonuses
+Pikmin1211 - Default settings
+
+Credits for assets:
+The Blind Archer - Axe Wyvern Lord
+
+List of changes and revisions made to FE6 - Deluxe
+
+October 10, 2022
+- Didn't realize Horseslayers were still effective against the former cavalry/current Assassins. Whoops
+- Reduced Fimbulvetr's price
+
+July 10, 2021
+- Implemented Assassins
+Note - they can use lockpicks, but can't steal. Also, they have a crit bonus instead of insta-killing
+- Gave Wyvern Lords Axes instead of Swords
+
+June 30, 2021
+- 1-2 range Mulagir
+- Ragnell Senior
+
+June 29, 2021
+- Moved Juno's starting position
+- Basically every shop has keys
+-- Also added a member card to the Chapter 14 shop if you don't wanna recruit Hugh
+
+June 11, 2021
+- Yes, more Hard Mode balancing
+
+June 10, 2021
+- Some default setting changes (Animations: 2, Game Speed: Fast, Text Speed: Max, Autocursor: Off)
+
+June 9, 2021
+- nice
+- Actually fixed Douglas' AI
+- Fixed cost of promotion items (whoops)
+- Removed Light Brand's (faulty) healing
+- Buffed Sophia, Niime, and Juno's bases
+- Gave Cecilia another base stat buff
+- Changed up Chapter 16's Secret Shop items
+
+June 8, 2021
+- Increased Thunder's uses
+- Reduced Elfire's price (...why was it 1200?)
+- Removed Sandstorm from Arcadia (Ch. 14)
+- Buffed Larum, Elffin, and Melady's bases
+
+June 6, 2021
+- More Hard Mode balancing
+-- Yes, this includes Hard Mode bonuses
+- Better armory in Chapter 2
+
+June 5, 2021
+- Redid a few basic weapon sprites
+- Fixed up Maltet and Murgleis
+
+June 4, 2021
+- Balanced Hard Mode kinda
+-- Also balanced playable unit hard mode bonuses
+- Should have changed Douglas' AI
+
+June 3, 2021
+- Gave the Short Bow the same graphic treatment
+- Merlinus has 9 move at base
+- Temporarily removed Eckesachs class lock since apparently it's in the reward pool
+-- Treated as an S rank sword because it's kinda on par with the legendary weapons
+- Speaking of legendary weapons, they're temporarily infinite to help achieve the "true" ending
+
+June 2, 2021
+- Updated most of the legendary weapons to look like their FEH renditions
+- Balanced Hard mode a little bit more
+
+May 29, 2021
+- Buffed Gonzales, Geese, Larum, Elffin, Klein, Echidna, and Cecilia's bases
+- Buffed Sophia and Thea a little bit more
+- Hard mode available from the start
+- A little more purple
+- Should have made Hard Mode MUCH more tolerable
+
+May 28, 2021 (Initial release)
+- A lot of changes, including...
+- Updated item sprites
+- 5 use Vulneraries that heal 15 HP
+- Doubled Promotion item usage
+- Infinite Dragonstone (for Fae), with +15 HP
+- Sellable poison weapons
+- E Rank Rapier, A Rank Binding Blade
+- +3 stat boosts: Energy Ring, Speedwing, Secret Book
+- +4 stat boost: Goddess Icon
+- Slightly buffed Slim Lance, Steel Bow, Short Bow
+- 10 avoid Stairs
+- 1-2 Range Divinestone and Short Bow
+- Infinite Body Ring, with +3 HP and +1 Def
+- Light Brand can be used as a Vulnerary
+- Some hard mode bonuses for playable units
+- A lot of purple UI
+- Infinite Boots
+- Faster unit movement
+- An updated weapon triangle (+/- 15 Hit instead of +/- 10)
+- Made weapon stats similar to FE7/8
+- Buffed Rapier to its FE7 stats
+- Moved Lilina closer to the main army
+- Better early shops to accomodate for magic
+- Adjusted Lilina, Ogier, Barthe, Gwendolyn, Sin, Fir, Thea, and Sophia's bases and levels
+- Removed Fog of War from all applicable chapters
