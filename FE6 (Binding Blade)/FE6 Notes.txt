@@ -1,0 +1,304 @@
+* Stealing has no speed threshold.
+* Merlinus is not needed to send items to the convoy. However, the convoy cannot be accessed without Merlinus on the map.
+* All Legendary weapons are needed to obtain the "true" ending.
+* You can't access the battle preparations shop in Hard Mode.
+* How do Hard Mode Bonuses work? Well, the folks over at triangleattack explain it better than I can, so head over to https://fe6.triangleattack.com/guides/hard-mode-bonuses
+
+Basic Map Info:
+Chapter 1: Dawn of Destiny
+Hard-Mode Bonuses: 2
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Roy - From the start
+Marcus - From the start
+Alen - From the start
+Bors - From the start
+Wolt - From the start
+Lance - From the start
+
+
+Chapter 2: The Princess of Bern
+Hard-Mode Bonuses: 2
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Merlinus - From the start
+Elen - From the start
+Ward - Automatically joins on turn 2
+Lot - Automatically joins on turn 2
+Dieck - Automatically joins on turn 2
+Shanna - Automatically joins on turn 2
+
+
+Chapter 3: Latecomer's Sorrow
+Hard-Mode Bonuses: 2
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Chad - From the start
+Lugh - Visit the northwest house
+
+
+Chapter 4: Crumbling League
+Hard-Mode Bonuses: 3
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Clarine - Appears on turn 3 [enemy phase]; approaches Roy to recruit herself
+Rutger - Appears on turn 6 [enemy phase, to the right of the castle]; talk with Clarine
+
+
+Chapter 5: Fire Emblem
+Hard-Mode Bonuses: 3
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Note - The door doesn't require a key, you just need to stand next to it on the right side (no, you can't fly over to the left side and open it). However, expect to deal with four "ambush" spawns.
+
+
+Chapter 6: Ensnared
+Hard-Mode Bonuses: 4
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Saul - From the start
+Dorothy - From the start
+Sue - Locked in top left (side door, not top) room; talk with Roy
+Cath - Appears on turn 5 [after ending turn, bottom right of map]; talk with Roy (need to do a total of 3 different times across several maps, and DON'T kill)
+
+
+Chapter 7: The Ostian Revolt
+Hard-Mode Bonuses: 4
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Zelot - Appears on turn 2 [near northeast houses], talk with Roy, Noah, or Trec
+Trec - Appears on turn 2 [near northeast houses], talk with Roy or Zelot
+Noah - Appears on turn 3 [in front of arena], talk with Roy or Zelot
+
+
+Chapter 8: Reunion
+Hard-Mode Bonuses: 5
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Lilina - From the start
+Astolfo - From the start
+Barth - Automatically joins on turn 6
+Ogier - Automatically joins on turn 6
+Gwendolyn - Automatically joins on turn 6
+Cath - Appears on turn 10 [enemy phase, from the stairs near the end of the map]; talk with Roy (need to do a total of 3 different times across several maps, and DON'T kill)
+
+
+Chapter 8x: The Blazing Blade
+Hard-Mode Bonuses: 5
+Requirements: Keep Lilina alive
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Nothing really of import. Just mind the fire traps which do 10 damage if you're standing on the ones that happens to trigger that turn.
+
+
+First route split decision; Chapter 9: The Misty Isles
+Hard-Mode Bonuses: 5
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Sin - Appears on turn 2 [enemy phase, near the castle]; talk with Sue
+Fir - Appears on turn 2 [enemy phase, near the castle]; talk with Noah
+
+Exclusive characters
+- Left Village/Default: Echidna & Larum
+- Right Village: Bartre & Elffin
+
+
+[Left Village route]
+Chapter 10A: Western Resistance
+Hard-Mode Bonuses: 6
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Geese - Appears on turn 4 [NPC phase, on the river above the village]; talk with Roy
+Gonzales - Appears on turn 6 [enemy phase, in front of the castle/seize]; talk with Lilina
+
+
+Chapter 11A: Hero of the West
+Hard-Mode Bonuses: 6
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Larum - From the start
+Klein - Appears on turn 5 [enemy phase, bottom of map]; talk with Roy or Clarine
+Thea - Appears on turn 7 [enemy phase, near the starting area]; talk with Klein (can talk with Shanna, but will turn Thea into a green unit)
+Echidna - Appears on turn 8 [enemy phase, near the middle of the map]; talk with Larum
+
+Side note - Keeping all of Klein's squad alive will give you an Orion's Bolt. Keeping all of Thea's squad alive will give you an Elysian Whip.
+
+
+[Right Village route]
+Chapter 10B: Amidst a Struggle
+Hard-Mode Bonuses: 6
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Gonzales - Appears on turn 6 [enemy phase, near mountains northwest]; talk with Lilina
+Klein - Appears on turn 8 [enemy phase, southeast corner]; talk with Roy or Clarine
+Thea - Appears on turn 10 [enemy phase, near mountains north]; talk with Klein (can talk with Shanna, but will need to talk once before recruting Klein and once afterwards. Otherwise, talking will turn Thea into a green unit)
+
+Side note - Visiting all of the villages will give you a Hero's Crest. Keeping all of Klein's squad alive will give you an Orion's Bolt. Keeping all of Thea's squad alive will give you an Elysian Whip.
+
+
+Chapter 11B: Flight Toward Freedom
+Hard-Mode Bonuses: 6
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Elffin - From the start
+Geese - Appears on turn 5 [NPC phase, near village]; talk with Roy
+Bartre - Appears on turn 8 [NPC phase, near western bridge]; talk with Roy or Fir
+
+
+Chapter 12: The True Enemy
+Hard-Mode Bonuses: 7
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Raigh - Talk with Lugh or Chad
+Cath - Appears on turn 7 [enemy phase, from the northern stairs]; talk with Roy (this is the first opportunity to recruit her, provided you talked to twice her on the previous maps)
+
+
+Chapter 12x: The Thunder Axe
+Hard-Mode Bonuses: 7
+Requirements: Complete Ch. 12 in 20 turns (and keep Elffin alive, if you went B route)
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Note - I mean, there's a lot of chests here. Also a few thiefs so uh, good luck.
+
+
+Chapter 13: Rescue Mission
+Hard-Mode Bonuses: 7
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Melady - Automatically joins on turn 3
+Percival - Talk with Larum/Elffin. Leaves on turn 8 if not recruited in time
+
+
+Chapter 14: Arcadia
+Hard-Mode Bonuses: 8
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Cecilia - From the start
+Sophia - From the start
+
+Note - there's a hidden item only Sophia can pick up near the entrance/opening of the siege point.
+
+
+Chapter 14x: The Infernal Truth
+Hard-Mode Bonuses: 8
+Requirements: Keep Sophia alive and clear Ch. 14 in 25 turns
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Note - the platforms rise and fall, so just be prepared for that.
+
+
+Chapter 15: The Dragon Child
+Hard-Mode Bonuses: 8
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Igrene - From the start
+Percival - (if not previously recruited) talk with Larum/Elffin
+Garret - Appears on turn 3 [enemy phase, near the mountains northeast]; talk with Lilina
+Fae - Complete the chapter
+
+
+Chapter 16: Storming the Capital
+Hard-Mode Bonuses: 9
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Hugh - Talk with Roy (will cost 10k, 8k, 6k, or 5k gold depending on if you have that much and if you refuse higher offers. Note that Hugh's base stats WILL drop if you take a lower offer. Refusing all offers will make Hugh unrecruitable)
+Zeiss - Appears on turn 2 [enemy phase, in the walled off northwest corner]; talk with Melady
+Cath - Appears on turn 10 [enemy phase, from the south(west-ish) stairs]; talk with Roy (this is the second opportunity to recruit her, provided you talked to twice her on the previous maps)
+
+Note - There's a secret shop right around the area Zeiss starts.
+
+
+Second route split decision; Chapter 16x: The Glorious Ascension
+Hard-Mode Bonuses: 9
+Requirements: Douglas survives Ch. 16
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Douglas - From the start
+Note - Stray bolts of lightning will strike through the map vertically, dealing 10 damage to any units in its path
+
+Exclusive characters (based on which pair gained more EXP)
+- Shanna & Thea [Ilia]: Juno
+- Sue & Sin [Sacae]: Dayan
+
+
+[Ilia]
+Chapter 17A: Ocean's Parting
+Hard-Mode Bonuses: 9
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Note - Around turn 6, the water will recede near the top, leaving an alternate pathway open.
+
+
+Chapter 18A: The Frozen River
+Hard-Mode Bonuses: 10
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Note - Around turn 7 (enemy phase), the rivers will freeze over, making them much easier to traverse.
+
+
+Chapter 19A: Bitter Cold
+Hard-Mode Bonuses: 10
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Niime - From the start
+
+
+Chapter 20A: Ilia's Salvation
+Hard-Mode Bonuses: 11
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Juno - Talk with Shanna, Thea, or Zelot
+Cath - Appears on turn 10 [enemy phase, from the mountains southeast]; talk with Roy (this is the third opportunity to recruit her, provided you talked to twice her on the previous maps)
+
+
+Chapter 20xA: The Blizzard Spear
+Hard-Mode Bonuses: 11
+Requirements: Juno and Zelot must both be alive and clear Ch. 20 within 25 turns
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+
+
+[Sacae]
+Chapter 17B: Bishop's Teachings
+Hard-Mode Bonuses: 9
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+
+
+Chapter 18B: The Law of Sacae
+Hard-Mode Bonuses: 10
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+
+
+Chapter 19B: Battle of Bulgar
+Hard-Mode Bonuses: 10
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+
+
+Chapter 20B: The Silver Wolf
+Hard-Mode Bonuses: 11
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Niime - From the start
+Dayan - Appears on turn 2 [NPC phase, near the starting point]; talk with Roy, Sue, or Sin
+
+
+Chapter 20xB: The Tempest Bow
+Hard-Mode Bonuses: 11
+Requirements: Sue and Sin must both be alive and clear Ch. 20 within 25 turns
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Note - There's a total of 6 gates to seize on the map. Only one of them works, with the other five triggering reinforcements.
+
+
+Chapter 21: The Binding Blade
+Hard-Mode Bonuses: 11
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Yoder - From the start
+
+Note - I would genuinely recommend you pull up a map of the reinforcement zones for this one. It gets quite annoying after a while.
+
+
+Chapter 21x: The Elder Revelation
+Hard-Mode Bonuses: 11
+Requirements: Melady and Zeiss must both be alive and clear Ch. 21 within 30 turns
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Note - Some of the chests may be trapped with Manaketes. Currently unsure of how the chests are decided. Also, there's random traps on the floor.
+
+Also note - Roy promotes at the end of the chapter
+
+
+Chapter 22: An Undying Dream
+Hard-Mode Bonuses: 12
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Cath - Appears on turn 16 [player phase, near northeast stairs]; talk with Roy (this is the FINAL opportunity to recruit her, provided you talked to twice her on the previous maps)
+
+Note - Unless you have all of the legendary weapons, this is the end of the game.
+
+
+Chapter 23: The Ghosts of Bern
+Hard-Mode Bonuses: 12
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Karel - Visit the village with Fir or Bartre
+
+
+Chapter 24: Legends and Lies
+Hard-Mode Bonuses: 13
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Note - The characters you pick here are the ones you will use for the final chapter.
+
+
+Finale: Beyond the Darkness
+Hard-Mode Bonuses: 13
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ *
+Note - You need to land the final blow with the Binding Blade to get the "true" ending.
